@@ -139,10 +139,8 @@ nltk.download('stopwords')
 
 ## Kontribusi
 Proyek ini dibuat oleh Richelle Vania Thionanda sebagai bagian dari tugas analisis sentimen. Jika Anda ingin berkontribusi, silakan fork repositori ini dan buat pull request dengan perbaikan atau fitur baru.
-
-## Lisensi
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
 ---
 
 File `README.md` ini memberikan gambaran lengkap tentang proyek, langkah-langkah menjalankannya, dan informasi penting lainnya. Anda dapat menyimpan teks di atas ke file `README.md` di direktori proyek Anda.
+```
+**© 2025 Richelle Vania Thionanda. All Rights Reserved.**

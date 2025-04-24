@@ -131,18 +131,16 @@ nltk.download('stopwords')
 3. Jalankan fungsi `auto_detect_and_predict()` untuk mengambil ulasan baru secara otomatis dan memprediksi sentimennya.
 
 ## Catatan
-```
 - **Koneksi Internet**: Diperlukan untuk scraping ulasan dari Google Play Store.
 - **Model Terbaik**: Bi-GRU memberikan akurasi tertinggi (96.18%) dan digunakan untuk inference.
 - **Bahasa**: Ulasan diambil dalam bahasa Indonesia (`lang='id'`). Model mungkin perlu penyesuaian untuk bahasa lain.
 - **Error Handling**: Jika scraping gagal, kode akan menampilkan pesan error. Pastikan koneksi internet stabil.
-```
+
 ## Kontribusi
-```
 Proyek ini dibuat oleh Richelle Vania Thionanda sebagai bagian dari tugas analisis sentimen. Jika Anda ingin berkontribusi, silakan fork repositori ini dan buat pull request dengan perbaikan atau fitur baru.
-```
+
 ---
-File `README.md` ini memberikan gambaran lengkap tentang proyek, langkah-langkah menjalankannya, dan informasi penting lainnya. Anda dapat menyimpan teks di atas ke file `README.md` di direktori proyek Anda.
+#### File `README.md` ini memberikan gambaran lengkap tentang proyek, langkah-langkah menjalankannya, dan informasi penting lainnya. Anda dapat menyimpan teks di atas ke file `README.md` di direktori proyek Anda.
 ---
 
 **© 2025 Richelle Vania Thionanda. All Rights Reserved.**
